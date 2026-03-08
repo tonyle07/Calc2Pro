@@ -1,6 +1,6 @@
 # Calc2Pro
 
-Calc2Pro is an AI-powered Calculus II study platform built to help students review difficult topics, track learning progress, and generate custom practice quizzes in one place.
+Calc2Pro is an **AI-powered Calculus II study platform** that helps students review concepts, generate practice quizzes, and track learning progress in one place.
 
 **Live Demo:** https://calc2pro.vercel.app
 
@@ -25,14 +25,16 @@ Calc2Pro combines structured calculus review content with interactive study tool
 - **Custom quiz builder** with difficulty settings and timed mode
 - **Firebase Authentication** with Google and email sign-in
 - **Firestore sync** for saving and tracking user progress across sessions
-- **Responsive frontend** built for a clean study experience
+- **Responsive UI** optimized for focused studying
 
 ---
 
 ## Demo Screenshots
 
 ![Calc2Pro Landing Page](https://github.com/user-attachments/assets/afd5f863-23b5-450a-abd7-5c99e2f678bf)
+
 ![Calc2Pro Notes View](https://github.com/user-attachments/assets/98ae538f-539d-4efb-8418-4203a01d2171)
+
 ![Calc2Pro Custom Quiz](https://github.com/user-attachments/assets/a3a2ffae-f567-4a38-ace8-deca20fcc73a)
 
 ---
@@ -79,3 +81,8 @@ VITE_ANTHROPIC_KEY=your_anthropic_key_here
 ```bash
 npm run dev
 ```
+
+## Author
+
+Tony Le  
+GitHub: https://github.com/tonyle07
